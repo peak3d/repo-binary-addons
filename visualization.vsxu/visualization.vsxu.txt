@@ -1,1 +1,1 @@
-visualization.projectm https://github.com/notspiff/visualization.vsxu master
+visualization.vsxu https://github.com/notspiff/visualization.vsxu master
